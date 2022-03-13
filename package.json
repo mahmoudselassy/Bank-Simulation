@@ -1,0 +1,14 @@
+{
+  "name": "bankist-app",
+  "version": "1.0.0",
+  "description": "bank simulation",
+  "scripts": {
+    "start": "parcel index.html && parcel watch index.html",
+    "build": "parcel build index.html --dist-dir dist"
+  },
+  "author": "Mahmoud Elassy",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.3.2"
+  }
+}
