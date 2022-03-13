@@ -57,7 +57,7 @@ const account3 = {
   currency: 'USD',
   locale: 'en-US',
 };
-const accounts = [account1, account2];
+const accounts = [account1, account2, account3];
 const labelWelcome = document.querySelector('.welcome');
 const labelDate = document.querySelector('.date');
 const labelBalance = document.querySelector('.balance__value');
